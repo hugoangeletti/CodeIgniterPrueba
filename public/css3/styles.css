@@ -1,0 +1,54 @@
+a{
+    color: #f5802d;
+}
+
+.encabezado>img{
+    /*height: 100px;
+    /*width: 100%;*/
+    
+    
+}
+
+.infoLogin{
+    background: #f5802d;
+    height: 20px;
+    color: white;
+}
+
+.menu{
+
+}
+
+.paginacion{
+    display: block !important;
+}
+
+.btn-naranja{
+    background-color: #f5802d;
+    color: white;
+    border: 1px solid #f5802d;
+}
+
+.btn-naranja:hover{
+    background-color: white;
+    color: #f5802d;
+    border: 1px solid #f5802d !important;
+}
+
+.descargarPDF{
+    background: url(../images/pdficon_large.png) no-repeat;
+    color:#f5802d; 
+    padding: 10px 0 0 40px; 
+    height: 32px;
+    display: inline-block;
+    margin-right: 0.5em;
+}
+.descargarPDF:hover{
+    color:#0B83B2;
+}
+
+.cerrarSesion{
+    text-decoration: underline;
+    color: white;
+    font-weight: bold;
+}
